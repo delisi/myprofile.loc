@@ -1,0 +1,13 @@
+[Fri Aug 10 21:40:45 2012] [error] [client 127.0.0.1] File does not exist: /home/andrey/projects/myprofile.loc/favicon.ico
+[Fri Aug 10 21:40:45 2012] [error] [client 127.0.0.1] File does not exist: /home/andrey/projects/myprofile.loc/favicon.ico
+[Fri Aug 10 21:58:02 2012] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Yii' not found in /home/andrey/projects/myprofile.loc/index.php on line 2
+[Fri Aug 10 21:58:27 2012] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Yii' not found in /home/andrey/projects/myprofile.loc/index.php on line 2
+[Fri Aug 10 21:58:29 2012] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Yii' not found in /home/andrey/projects/myprofile.loc/index.php on line 2
+[Fri Aug 10 21:58:29 2012] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Yii' not found in /home/andrey/projects/myprofile.loc/index.php on line 2
+[Fri Aug 10 21:58:30 2012] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Yii' not found in /home/andrey/projects/myprofile.loc/index.php on line 2
+[Fri Aug 10 21:58:30 2012] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Yii' not found in /home/andrey/projects/myprofile.loc/index.php on line 2
+[Fri Aug 10 21:58:30 2012] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Yii' not found in /home/andrey/projects/myprofile.loc/index.php on line 2
+[Fri Aug 10 21:58:30 2012] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Yii' not found in /home/andrey/projects/myprofile.loc/index.php on line 2
+[Fri Aug 10 21:58:31 2012] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Yii' not found in /home/andrey/projects/myprofile.loc/index.php on line 2
+[Fri Aug 10 21:58:48 2012] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Yii' not found in /home/andrey/projects/myprofile.loc/index.php on line 2
+[Fri Aug 10 21:58:51 2012] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Yii' not found in /home/andrey/projects/myprofile.loc/index.php on line 2
